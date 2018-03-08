@@ -15,6 +15,7 @@ node server.js
 # Details
 
 `server.js` sets up the main pattern/action handlers.
+
 `accessControl.js` is a plugin which handles all the access control logic
 
 Details on chaining handlers can be found here:
